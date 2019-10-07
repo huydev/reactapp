@@ -1,0 +1,30 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1321305",
+      "name": "经典案例_五角星_收藏后",
+      "font_class": "jingdiananli_wujiaoxing_shoucanghou",
+      "unicode": "e64a",
+      "unicode_decimal": 58954
+    },
+    {
+      "icon_id": "1321306",
+      "name": "经典案例_空五角星_收藏",
+      "font_class": "jingdiananli_kongwujiaoxing_shoucang",
+      "unicode": "e64b",
+      "unicode_decimal": 58955
+    },
+    {
+      "icon_id": "7684890",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e6c7",
+      "unicode_decimal": 59079
+    }
+  ]
+}
